@@ -1,3 +1,3 @@
 # freecodecamp projects
 
-Here is the place for projects Ive done @freecodecamp
+Here is the place for the projects Ive done @freecodecamp
